@@ -96,10 +96,6 @@ On a personal level, I am deeply committed to self-improvement and personal grow
 
 </div>
 
-<h2 align="left">🏆 Github Gold Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAhmed48&column=3&margin-w=15&margin-h=15)](https://github.com/SAhmed48/github-profile-trophy)
-
 
 ## 🤝 Consulting / Guidance
 Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>razikha1999@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
