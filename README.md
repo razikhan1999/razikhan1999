@@ -37,7 +37,7 @@ On a personal level, I am deeply committed to self-improvement and personal grow
 </a>
 
 <a href="https://www.upwork.com/freelancers/~016e0f05f6150606cc">
-  <img title="Follow on Upwork" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img title="Follow on Upwork" src="https://img.shields.io/badge/Upwork-1DA1F2?style=for-the-badge&logo=Upwork&logoColor=Green"/>
 </a>
 
 <a href="mailto:razikha1999@gmail.com">
